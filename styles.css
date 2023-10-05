@@ -1,0 +1,568 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+/* First Page starts */
+.container
+{
+    width: 100%;
+    height: 3000px;
+    background-color: aqua;
+    border-style: solid;
+}
+.page1
+{ 
+    width: 100%;
+    height: 750px;
+    
+}
+
+.menubar
+{
+    width: 100%;
+    height: 110px;
+    background-color:#152732;
+  
+}
+
+.banner
+{
+     width: 200px;
+    height: 75px;
+    background-color: #152732;
+    margin-left: 30px;
+    margin-top: 20px;
+    float: left;
+    text-align: center 
+}
+
+
+
+.navbar
+{
+    width: 520px;
+    height: 30px;
+    background-color: red;
+    margin-top: 20px;
+    float: right;
+    
+}
+
+ul
+{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #152732}
+
+li
+{
+    float: left;
+}
+
+li a
+{
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    padding: 25px;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover
+{
+    background-color: red;
+}
+
+
+/* .logo3
+{
+    width: 70px;
+    height: 15px;
+    background-color:red;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 20px;
+    float: left;
+    font-size: medium;
+    color: aliceblue;
+    text-align: center;
+
+}
+
+.logo4,.logo5,.logo6,.logo7
+{
+    width: 70px;
+    height: 15px;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 20px;
+    float: left;
+    font-size: medium;
+    color: aliceblue;
+    text-align: center;
+
+} */
+
+
+.banner0
+{
+     width: 100%;
+    height: 650px;
+    background-color:lightseagreen;
+    float: left;
+    background-image: url(./img/carousel-01.jpg); 
+    background-size:cover;
+    
+    
+}
+
+.banner1
+{
+     width: 810px;
+     height: 90px;
+    background-color: red;
+    margin-top: 180px;
+    color: #fff;
+    padding: 15px 15px 0 15px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    
+}
+.banner2
+{
+    width: 880px;
+    background-color: #fff;
+    float: left;
+    padding: 10px;
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+ /*page2 starts */
+.page2
+{
+    width: 100%;
+    height: 750px;
+    background-color:#152732;
+}
+
+.left
+{
+    width: 49.5%;
+    height: 700px;
+    background-color:#152732;
+    margin-top: 15px;
+    float: left;
+}
+
+.banner3
+{
+    
+        width: 49%;
+        height: 325px;
+        margin-top: 17px;
+        background-color:red;
+        float: left;
+    
+}
+
+.banner5
+{
+    width: 49%;
+    height: 325px;
+    margin-top: 17px;
+    background-color: goldenrod;
+    float: left;
+}
+
+
+.banner4
+{
+
+        width: 49%;
+        height: 325px;
+        margin-top: 17px;
+        margin-left: 10px;
+        background-color: skyblue;
+        float: right;
+}
+
+.banner6
+{
+    
+    width: 49%;
+    height: 325px;
+    margin-top: 17px;
+    margin-left: 10px;
+    background-color:#00b5a6;
+    float: right;
+    
+}
+.log2,.log4,.log6,.log8
+{
+    width: 95%;
+    height: 100px;
+    /* background-color: black; */
+    margin-top: 5px;
+    margin-left: 10px;
+    text-align: center;
+   
+}
+
+.log1,.log3,.log5,.log7
+{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 30%;
+
+}
+
+.right
+{
+    width: 49.5%;
+    height: 670px;
+    margin-top: 30px;
+    float: right;
+   
+}
+
+/* page2 ends */
+
+/* page3 starts here */
+.page3
+{
+
+    width: 100%;
+    height: 400px;
+    background-color: #152732;
+    
+  
+
+}
+
+.log9
+{
+    width: 45%;
+    height: 50px;
+    background-color: #152732;
+    margin-top: 140px;
+    margin-left: 25%;
+    float: left;
+    color: aliceblue;
+    
+}
+.log10
+{
+    width: 65%;
+    height: 80px;
+    background-color: #152732;
+    text-align: left;
+    float: left;
+    margin-left: 25%;
+    color: gray;
+
+}
+
+/* page3 ends */
+
+/* page4 starts here */
+
+.page4
+{
+    width: 100%;
+    height: 560px;
+    background-color:#152732;
+    color: black;
+  
+ 
+}
+
+.box1,.box2
+{
+    width: 49.5%;
+    height: 550px;
+    background-color: skyblue;
+    margin-top: 10px;
+}
+
+.box1
+{ 
+    float: left;
+}
+
+.box2
+{
+    float: right;
+   
+
+}
+
+.box3
+{
+    width: 94%;
+    height: 130px;
+    background-color: skyblue;
+    margin-left: 40px;
+    margin-top: 40px;
+    text-size-adjust: 40px;
+
+}
+.box4
+{
+    width: 80%;
+    height: 140px;
+    background-color: skyblue;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+/* page4 ends */
+
+/* page 5  here */
+.page5
+{
+    width:100%; 
+    height: 840px;
+    background-color: #152732;
+    
+}
+
+
+
+.log11,.log12
+
+{
+
+  width: 49.5%;  
+  height: 350px;
+  background-color: black;
+ 
+
+}
+
+.log13,.log14
+{
+    width: 49.5%;  
+    height: 350px;
+    background-color: black;
+    margin-top: 15px;
+  
+}
+
+.log11,.log13
+{
+    float: right;
+}
+.log12,.log14
+{
+    float: left;
+}
+
+.log15
+{
+    width: 40%;
+    /* height: 100px; */
+    background-color: #152732;
+    margin: 0 auto;
+    text-align: center;
+    color: azure;
+    padding: 40px;
+    font-size: 30px;
+   
+   
+
+}
+
+/* page5 ends */
+
+
+/* page6 starts here */
+.page6
+{
+    width: 100%;
+    height: 750px;
+    background-color: #152732;
+    color: black;
+    
+   
+
+}
+.box5
+{
+    width: 100%;
+    height: 290px;
+    background-color:#152732;
+}
+.text3
+{
+    width: 34%;
+    height: 250px;
+    background-color: #152732;
+    margin-top: 10px;
+    float: left;
+    text-align: right;
+    color: white;
+    
+    
+}
+.banner7
+{
+    width: 80%;
+    height: 40px;
+    background-color:#152732;
+    text-align: right;
+    margin-top: 70px;
+    margin-left: 50px;
+    
+    
+}
+.banner8
+{
+    width: 80%;
+    height: 50px;
+    background-color: #152732;
+    text-align: right ;
+    
+    margin-left: 50px;
+    
+}
+
+.text4,.text5,.text6,.text7
+{
+    width: 15%;
+    height: 200px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+}
+/* .text5
+{
+    width: 15%;
+    height: 270px;
+    background-color: orangered;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+.text6
+{
+    width: 15%;
+    height: 270px;
+    background-color: orangered;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+} */
+/* .text7
+{
+    width: 15%;
+    height: 250px;
+    background-color: lightblue;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+} */
+
+.box6
+{
+    
+    width: 100%;
+    height: 350px;
+    background-color: #152732;
+}
+
+.text8
+{
+    width: 24%;
+    height: 330px;
+    background-color: orangered;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+.text9
+{
+    width: 24%;
+    background-color: #152732;
+    margin-left: 35px;
+    margin-top: 60px;
+    float: left;
+    color: white;
+    
+    
+}
+.text10
+{
+    width: 24%;
+    height: 260px;
+    background-color: orangered;
+    margin-left: 10px;
+    margin-top: 60px;
+    float: left;
+}
+
+.banner9
+{
+    width: 100%;
+    height: 40px;
+    background-color: #152732;
+    color: aliceblue;
+}
+
+.banner10
+{
+    width: 100%;
+    height: 220px;
+    background-color: #152732;
+
+}
+
+.text11
+{
+    width: 20%;
+    height: 200px;
+    background-color:#152732;
+   
+    margin-top: 60px;
+    float: left;
+    color: white;
+}
+.banner11
+{
+    width: 80%;
+    height: 200px;
+    background-color: #152732;
+    margin-left: 30px;
+}
+.text12
+{
+    width: 50%;
+    
+    background-color: #152732;
+   
+    margin-left: 25%;
+    margin-top: 10px;
+
+    
+}
+
+
+@media screen and (min-width: 425px) 
+
+{
+.page1
+
+   .
+
+}
